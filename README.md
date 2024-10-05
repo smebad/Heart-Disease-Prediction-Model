@@ -43,11 +43,7 @@ Before training the model, an extensive EDA was performed to understand the data
 - **Correlation Heatmap**: Identify relationships between features.
 - **Feature Statistics**: Analyze central tendencies and variability of key attributes.
 
-### Sample Visualizations:
-
-| Target Distribution              | Correlation Heatmap                        |
-|----------------------------------|--------------------------------------------|
-| ![Target Distribution](./images/target_distribution.png) | ![Correlation Heatmap](./images/correlation_heatmap.png) |
+### Sample Visualizations
 
 ---
 
